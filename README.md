@@ -1,4 +1,4 @@
-# robertzehnder.github.io
+# Project 1
 
 Bronze:
 
@@ -21,4 +21,3 @@ Gold:
   As a user, I would like to track scores across games, so that I can see what my records are (even if the page is reloaded)
 
   Authorization feature
-# project1Official
